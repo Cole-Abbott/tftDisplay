@@ -1,0 +1,3 @@
+/Users/cole/code/piPico/tftDisplay/build/pioasm/CMakeFiles/pioasm.dir
+/Users/cole/code/piPico/tftDisplay/build/pioasm/CMakeFiles/edit_cache.dir
+/Users/cole/code/piPico/tftDisplay/build/pioasm/CMakeFiles/rebuild_cache.dir
